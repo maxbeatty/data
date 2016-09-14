@@ -1,0 +1,31 @@
+{
+  "name": "data",
+  "version": "0.0.1",
+  "author": "Spaceback Inc.",
+  "keywords": [
+    "spaceback",
+    "data",
+    "bot"
+  ],
+  "description": "A simple helpful robot for Spaceback.",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/github/hubot/raw/master/LICENSE"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spbk/data.git"
+  },
+  "dependencies": {
+    "botkit": "0.2.2",
+    "cheerio": "0.22.0",
+    "cheerio-tableparser": "1.0.1"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "3.x.x"
+  }
+}
