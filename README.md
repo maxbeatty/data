@@ -1,4 +1,4 @@
-# Data - Spaceback's bot
+# Data: A bot for Spaceback bot
 
 [![npm](https://img.shields.io/npm/l/botkit.svg)](https://spdx.org/licenses/MIT)
 
@@ -13,7 +13,21 @@ Data lives on Heroku at [spbk-data.herokuapp.com](spbk-data.herokuapp.com). To d
 * `git push heroku master` to deploy the `master` branch to Heroku or `git push heroku +my_branch:master` to override Heroku's maser branch with a different branch.
 * At this point, "Data" should show up as a user in Slack.
 
-## Commands
+## Heroku Commands
+
+First, you need to log into Heroku:
+* `heroku login [-a spbk-data]`
+
+You can view your apps with:
+* `heroku list [-a spbk-data]`
+
+You can view the logs on your Heroku app with:
+* `heroku logs --tail [-a spbk-data]`
+
+If you want a bash shell on the Heroku app:
+* `heroku run bash [-a spbk-data]`
+
+## Data Commands
 
 Data recognizes the following commands in Slack:
 
