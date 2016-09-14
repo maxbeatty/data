@@ -1,8 +1,8 @@
 var Botkit = require('botkit');
 var cheerio = require('cheerio'), cheerioTableparser = require('cheerio-tableparser');
 const fs = require('fs');
-const CHARACTERS_FILE = process.env.PROJECT_ROOT + '/static_data/characters.html';
-// console.log(CHARACTERS_FILE);
+const CHARACTERS_FILE = process.env.PROJECT_ROOT + 'static_data/characters.html';
+//console.log(CHARACTERS_FILE);
 
 function getRandomInt(min, max) {
   min = Math.ceil(min);
@@ -11,14 +11,14 @@ function getRandomInt(min, max) {
 };
 
 // Parse characters.html file to get list of characters
-var character_count = 0;
+var characterCount = 0;
 
 // Open characters.html
 fs.readFile(CHARACTERS_FILE, 'utf8', function(err, contents) {
   $ = cheerio.load(contents);
   cheerioTableparser($);
   characters = $("#characters").parsetable(true, true, true);
-  character_count = characters[0].length;
+  characterCount = characters[0].length;
   // console.log("Parsed " + character_count + " characters.");
 });
 
@@ -37,11 +37,15 @@ controller.spawn({
 controller.hears('(.*)character(.*)',['direct_message','direct_mention','mention'], function(bot,message) {
   // Default character is Data
   var character = "Data";
-  random_character_index = getRandomInt(0, character_count);
-  var name = characters[0][random_character_index];
-  var rank = characters[4][random_character_index] == null ? "n/a" : characters[4][random_character_index];
-  var position = characters[5][random_character_index] == null ? "n/a" : characters[5][random_character_index];
-  var species = characters[6][random_character_index];
+  randomCharacterIndex = getRandomInt(0, characterCount);
+  var name = characters[0][randomCharacterIndex];
+  var rank = characters[4][randomCharacterIndex] == null
+    ? "n/a"
+    : characters[4][randomCharacterIndex];
+  var position = characters[5][randomCharacterIndex] == null
+    ? "n/a"
+    : characters[5][randomCharacterIndex];
+  var species = characters[6][randomCharacterIndex];
   character = "*Name:* " + name + "\n" +
               "*Rank*: " + rank + "\n" +
               "*Position*: " + position + "\n" +
