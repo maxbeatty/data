@@ -1,1 +1,1 @@
-worker: node --use_strict main.js
+worker: npm start
