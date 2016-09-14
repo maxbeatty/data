@@ -22,7 +22,8 @@
   "dependencies": {
     "botkit": "0.2.2",
     "cheerio": "0.22.0",
-    "cheerio-tableparser": "1.0.1"
+    "cheerio-tableparser": "1.0.1",
+    "winston": "2.2.0"
   },
   "engines": {
     "node": ">=6.0.0",
@@ -30,7 +31,7 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "start": "node main.js",
+    "start": "node --use_strict main.js",
     "test": "npm run lint"
   },
   "bugs": {
