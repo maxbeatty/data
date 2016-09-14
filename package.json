@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/spbk/data.git"
+    "url": "git+https://github.com/spbk/data.git"
   },
   "dependencies": {
     "botkit": "0.2.2",
@@ -30,5 +30,11 @@
   },
   "scripts": {
     "start": "node main.js"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/spbk/data/issues"
+  },
+  "homepage": "https://github.com/spbk/data#readme",
+  "main": "main.js",
+  "devDependencies": {}
 }

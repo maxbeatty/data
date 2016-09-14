@@ -1,3 +1,5 @@
+"use strict";
+
 // If the environgment does not have the proper env variables set, exit early.
 // SLACK_RTM_TOKEN: Slack Real Time Token
 // PROJECT_ROOT: The root directory of the project
