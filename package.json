@@ -25,16 +25,22 @@
     "cheerio-tableparser": "1.0.1"
   },
   "engines": {
-    "node": "6.x.x",
-    "npm": "3.x.x"
+    "node": ">=6.0.0",
+    "npm": ">=3.0.0"
   },
   "scripts": {
-    "start": "node main.js"
+    "lint": "eslint .",
+    "start": "node main.js",
+    "test": "npm run lint"
   },
   "bugs": {
     "url": "https://github.com/spbk/data/issues"
   },
   "homepage": "https://github.com/spbk/data#readme",
   "main": "main.js",
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "3.5.0",
+    "eslint-config-airbnb-base": "7.1.0",
+    "eslint-plugin-import": "1.15.0"
+  }
 }

@@ -32,3 +32,21 @@ If you want a bash shell on the Heroku app:
 Data recognizes the following commands in Slack:
 
 * `@data show me a character` (regex: /.*character.*/): prints a random character from the Star Trek universe to the current channel.
+
+## Contributing
+
+### Linting
+
+Follow [this reasonable approach to JavaScript](https://github.com/airbnb/javascript)
+
+```
+npm run lint
+```
+
+### Test
+
+Lint && Test
+
+```
+npm run lint
+```
