@@ -29,6 +29,6 @@
     "npm": "3.x.x"
   },
   "scripts": {
-    "start": "node scripts/characters.js"
+    "start": "node main.js"
   }
 }
