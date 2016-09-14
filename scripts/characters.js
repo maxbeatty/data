@@ -50,10 +50,10 @@ function controllerHandler(bot, message) {
     ? 'n/a'
     : characters[5][randomIndex];
   const species = characters[6][randomIndex];
-  character = `*Name:* ${name}\n
-    *Rank*: ${rank}\n
-    *Position*: ${position}\n
-    *Species*: ${species}\n`;
+  character = `\n*Name:* ${name}
+*Rank*: ${rank}
+*Position*: ${position}
+*Species*: ${species}\n`;
   bot.reply(message, character);
 }
 
