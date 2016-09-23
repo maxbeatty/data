@@ -1,14 +1,25 @@
+const Botkit = require('botkit');
 const winston = require('winston');
 
-// Set log level to debug
+const characters = require('./scripts/characters');
+const hello = require('./scripts/hello');
+
 winston.level = 'debug';
 
-// If the environgment does not have the proper env variables set, exit early.
 // SLACK_RTM_TOKEN: Slack Real Time Token
-// PROJECT_ROOT: The root directory of the project
-if (!process.env.SLACK_RTM_TOKEN || !process.env.PROJECT_ROOT) {
-  winston.log('debug', 'Error: Specify token in environment');
+if (!process.env.SLACK_RTM_TOKEN) {
+  winston.error('Specify SLACK_RTM_TOKEN in environment');
   process.exit(1);
 }
 
-require('./scripts/characters');
+const controller = Botkit.slackbot({
+  debug: false,
+});
+
+characters(controller);
+hello(controller);
+
+// connect the bot to a stream of messages
+controller.spawn({
+  token: process.env.SLACK_RTM_TOKEN,
+}).startRTM();
