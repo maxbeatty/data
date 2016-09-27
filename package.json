@@ -1,47 +1,49 @@
 {
   "name": "data",
   "version": "0.0.1",
-  "author": "Spaceback Inc.",
-  "keywords": [
-    "spaceback",
-    "data",
-    "bot"
-  ],
-  "description": "A simple helpful robot for Spaceback.",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/github/hubot/raw/master/LICENSE"
-    }
-  ],
-  "license": "MIT",
+  "description": "A simple helpful robot",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spbk/data.git"
   },
   "dependencies": {
-    "botkit": "0.2.2",
-    "cheerio": "0.22.0",
-    "cheerio-tableparser": "1.0.1",
-    "winston": "2.2.0"
+    "botkit": "0.2.2"
   },
   "engines": {
     "node": ">=6.0.0",
     "npm": ">=3.0.0"
   },
   "scripts": {
-    "lint": "eslint .",
+    "lint": "eslint --ignore-path .gitignore .",
     "start": "node main.js",
-    "test": "npm run lint"
+    "pretest": "npm run lint",
+    "test": "jest --coverage"
   },
   "bugs": {
     "url": "https://github.com/spbk/data/issues"
   },
   "homepage": "https://github.com/spbk/data#readme",
-  "main": "main.js",
   "devDependencies": {
-    "eslint": "3.5.0",
+    "eslint": "3.6.0",
     "eslint-config-airbnb-base": "7.1.0",
-    "eslint-plugin-import": "1.15.0"
+    "eslint-plugin-import": "1.16.0",
+    "jest": "15.1.1"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "json"
+    ],
+    "collectCoverageFrom": [
+      "lib/**/*.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 100,
+        "functions": 100,
+        "lines": 100,
+        "statements": 100
+      }
+    }
   }
 }

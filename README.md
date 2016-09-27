@@ -48,5 +48,5 @@ npm run lint
 Lint && Test
 
 ```
-npm run lint
+npm test
 ```

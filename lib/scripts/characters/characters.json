@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Jonathan Archer",
+    "rank": "Enterprise NX-01",
+    "position": "Commanding Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Ayala",
+    "rank": "USS Voyager",
+    "position": "Helmsman (S7)\n\t\tSecurity Officer (S1-7)\n\t\tMaquis (previous)",
+    "species": "Human"
+  },
+  {
+    "name": "Azan",
+    "rank": "USS Voyager Passenger",
+    "position": "n/a",
+    "species": "Wysanti"
+  },
+  {
+    "name": "Reginald Barclay",
+    "rank": "Starfleet Command (VOY)\n\t\tUSS Enterprise-E (FCT)\n\t\tUSS Enterprise-D (TNG)",
+    "position": "Pathfinder Project (VOY)\n\t\tEngineering Officer (TNG,Movies)",
+    "species": "Human"
+  },
+  {
+    "name": "Bareil Antos",
+    "rank": "Bajor Resident",
+    "position": "Bajoran Religious Leader (S1-3)",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Julian Bashir",
+    "rank": "Deep Space 9",
+    "position": "Chief Medical Officer",
+    "species": "Human"
+  },
+  {
+    "name": "B'Etor",
+    "rank": "Bird of Prey",
+    "position": "First Officer",
+    "species": "Klingon"
+  },
+  {
+    "name": "The Borg Queen",
+    "rank": "Borg Collective",
+    "position": "Leader of Borg Collective",
+    "species": "Borg"
+  },
+  {
+    "name": "The Borg Queen",
+    "rank": "Borg Collective",
+    "position": "Leader of Borg Collective",
+    "species": "Borg"
+  },
+  {
+    "name": "Phillip Boyce",
+    "rank": "USS Enterprise",
+    "position": "Chief Medical Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Brunt",
+    "rank": "Ferenginar Resident",
+    "position": "Ferengi Commerce Liquidator",
+    "species": "Ferengi"
+  },
+  {
+    "name": "Joseph Carey",
+    "rank": "USS Voyager",
+    "position": "Engineering Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Chakotay",
+    "rank": "USS Voyager",
+    "position": "First Officer (S1-7)\n\t\tMaquis (S1)",
+    "species": "Human"
+  },
+  {
+    "name": "Christine Chapel",
+    "rank": "Starfleet Command (ST:IV)\n\t\tUSS Enterprise (TOS, TAS, ST:I)",
+    "position": "Starfleet Command Officer (ST:IV)\n\t\tMedical Officer (ST:I)\n\t\tNurse (TOS, TAS)",
+    "species": "Human"
+  },
+  {
+    "name": "Pavel Chekov",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Reliant (ST:II)\n\t\tUSS Enterprise (TOS,ST:I,III,Reboot)",
+    "position": "Chief Security Officer (ST:III-VI)\n\t\tFirst Officer (ST:II)\n\t\tWeapons Officer (ST:I)\n\t\tNavigator (TOS,Reboot)",
+    "species": "Human"
+  },
+  {
+    "name": "Pavel Chekov",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Reliant (ST:II)\n\t\tUSS Enterprise (TOS,ST:I,III,Reboot)",
+    "position": "Chief Security Officer (ST:III-VI)\n\t\tFirst Officer (ST:II)\n\t\tWeapons Officer (ST:I)\n\t\tNavigator (TOS,Reboot)",
+    "species": "Human"
+  },
+  {
+    "name": "Chell",
+    "rank": "USS Voyager",
+    "position": "Engineering Officer\n\t\tMaquis (previous)",
+    "species": "Bolian"
+  },
+  {
+    "name": "J. M. Colt",
+    "rank": "USS Enterprise",
+    "position": "Yeoman",
+    "species": "Human"
+  },
+  {
+    "name": "Kimara Cretak",
+    "rank": "Deep Space 9",
+    "position": "Romulan Representative",
+    "species": "Romulan"
+  },
+  {
+    "name": "Kimara Cretak",
+    "rank": "Deep Space 9",
+    "position": "Romulan Representative",
+    "species": "Romulan"
+  },
+  {
+    "name": "Beverly Crusher",
+    "rank": "USS Enterprise-E (FCT,INS,NEM)\n\t\tUSS Enterprise-D (S1-7,GEN)\n\t\tStarfleet Command (S2)",
+    "position": "Chief Medical Officer (S1,3-7,Movies)\n\t\tHead of Starfleet Medical (S2)",
+    "species": "Human"
+  },
+  {
+    "name": "Wesley Crusher",
+    "rank": "USS Titan (NEM)\n\t\tStarfleet Academy (S4-7)\n\t\tUSS Enterprise-D (S1-4)",
+    "position": "Engineering Officer (NEM)\n\t\tStarfleet Cadet (S4-7)\n\t\tHelmsman (S1-4)",
+    "species": "Human"
+  },
+  {
+    "name": "Jal Culluh",
+    "rank": "Kazon-Nistrim",
+    "position": "Leader of Kazon-Nistrim",
+    "species": "Kazon"
+  },
+  {
+    "name": "Elizabeth Cutler",
+    "rank": "Enterprise NX-01",
+    "position": "Entomologist",
+    "species": "Human"
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "rank": "USS Voyager Program",
+    "position": "Holographic Character",
+    "species": "Hologram"
+  },
+  {
+    "name": "Damar",
+    "rank": "Cardassia Prime\n\t\tCMS Groumall (S4)",
+    "position": "Leader of Cardassian Union (S7)\n\t\tDominion Leader (S6-7)\n\t\tVigilante (S5)\n\t\tCardassian Officer (S4)",
+    "species": "Cardassian"
+  },
+  {
+    "name": "Daniels",
+    "rank": "Unknown",
+    "position": "Temporal Agent",
+    "species": "Human"
+  },
+  {
+    "name": "Data",
+    "rank": "USS Enterprise-E (FCT,INS,NEM)\n\t\tUSS Enterprise-D (S1-7,GEN)",
+    "position": "Chief Operations Officer",
+    "species": "Android"
+  },
+  {
+    "name": "Ezri Dax",
+    "rank": "Deep Space 9",
+    "position": "Counselor",
+    "species": "Trill"
+  },
+  {
+    "name": "Jadzia Dax",
+    "rank": "Deep Space 9",
+    "position": "Chief Science Officer",
+    "species": "Trill"
+  },
+  {
+    "name": "Degra",
+    "rank": "Xindi Council",
+    "position": "Scientist",
+    "species": "Xindi-Primate"
+  },
+  {
+    "name": "The Doctor",
+    "rank": "USS Voyager",
+    "position": "Chief Medical Officer",
+    "species": "Hologram"
+  },
+  {
+    "name": "Dolim",
+    "rank": "Xindi Council",
+    "position": "Council Member",
+    "species": "Xindi-Reptilian"
+  },
+  {
+    "name": "Dukat",
+    "rank": "Cardassia Prime",
+    "position": "Religious Leader (S6-7)\n\t\tLeader of Cardassia (S5)\n\t\tVigilante (S4-5)\n\t\tFreighter Commander (S4)\n\t\tCardassian Officer (S1-4)",
+    "species": "Cardassian"
+  },
+  {
+    "name": "Michael Eddington",
+    "rank": "Deep Space 9 (S3-4)",
+    "position": "Maquis (S7)\n\t\tSecurity Officer (S5-7)",
+    "species": "Human"
+  },
+  {
+    "name": "Evek",
+    "rank": "CMS Vetar",
+    "position": "Commanding Officer",
+    "species": "Cardassian"
+  },
+  {
+    "name": "Female Changeling",
+    "rank": "Cardassia Prime",
+    "position": "Leader of Dominion",
+    "species": "Changeling"
+  },
+  {
+    "name": "Vic Fontaine",
+    "rank": "Deep Space 9 Program",
+    "position": "Holographic Entertainer",
+    "species": "Hologram"
+  },
+  {
+    "name": "Maxwell Forrest",
+    "rank": "Starfleet Command",
+    "position": "NX Project",
+    "species": "Human"
+  },
+  {
+    "name": "Elim Garak",
+    "rank": "Deep Space 9 Resident",
+    "position": "Tailor",
+    "species": "Cardassian"
+  },
+  {
+    "name": "Garrison",
+    "rank": "USS Enterprise",
+    "position": "Communications Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Sonya Gomez",
+    "rank": "USS Enterprise-D",
+    "position": "Engineering Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Gowron",
+    "rank": "Klingon High Council",
+    "position": "Chancellor of Klingon Empire",
+    "species": "Klingon"
+  },
+  {
+    "name": "Amanda Grayson",
+    "rank": "Vulcan Resident",
+    "position": "n/a",
+    "species": "Human"
+  },
+  {
+    "name": "Amanda Grayson",
+    "rank": "Vulcan Resident",
+    "position": "n/a",
+    "species": "Human"
+  },
+  {
+    "name": "Guinan",
+    "rank": "USS Enterprise-D",
+    "position": "Bartender",
+    "species": "El-Aurian"
+  },
+  {
+    "name": "J. Hayes",
+    "rank": "Enterprise NX-01",
+    "position": "MACO Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Erika Hernandez",
+    "rank": "Columbia NX-02",
+    "position": "Commanding Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Hogan",
+    "rank": "USS Voyager",
+    "position": "Engineering Officer\n\t\tMaquis (previous)",
+    "species": "Human"
+  },
+  {
+    "name": "Mr. Homn",
+    "rank": "Betazed Resident",
+    "position": "Servant",
+    "species": "Unknown"
+  },
+  {
+    "name": "Hugh of Borg",
+    "rank": "n/a",
+    "position": "Borg Drone",
+    "species": "Borg"
+  },
+  {
+    "name": "Icheb",
+    "rank": "USS Voyager Resident",
+    "position": "Astrometrics",
+    "species": "Brunali"
+  },
+  {
+    "name": "Ishka",
+    "rank": "Ferenginar Resident",
+    "position": "Philanthropist",
+    "species": "Ferengi"
+  },
+  {
+    "name": "Ishka",
+    "rank": "Ferenginar Resident",
+    "position": "Philanthropist",
+    "species": "Ferengi"
+  },
+  {
+    "name": "Kathryn Janeway",
+    "rank": "Starfleet Command (NEM)\n\t\tUSS Voyager (VOY)",
+    "position": "Starfleet Admiral (NEM)\n\t\tCommanding Officer (VOY)",
+    "species": "Human"
+  },
+  {
+    "name": "Jannar",
+    "rank": "Xindi Council",
+    "position": "Scientist",
+    "species": "Xindi-Arboreal"
+  },
+  {
+    "name": "Michael Jonas",
+    "rank": "USS Voyager",
+    "position": "Engineering Officer\n\t\tMaquis (previous)",
+    "species": "Human"
+  },
+  {
+    "name": "K'Ehleyr",
+    "rank": "Earth Resident",
+    "position": "Federation Ambassador",
+    "species": "Klingon/Human"
+  },
+  {
+    "name": "Kes",
+    "rank": "USS Voyager",
+    "position": "Medic\n\t\tAeroponics",
+    "species": "Ocampa"
+  },
+  {
+    "name": "Harry Kim",
+    "rank": "USS Voyager",
+    "position": "Chief Operations Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Kira Nerys",
+    "rank": "Deep Space 9",
+    "position": "Commanding Officer (S7)\n\t\tFirst Officer (S1-7)",
+    "species": "Bajoran"
+  },
+  {
+    "name": "James T. Kirk",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS,TAS,ST:I-III,Reboot)",
+    "position": "Commanding Officer (TOS,TAS,ST:I-VI,ITD,STB)\n\t\tFirst Officer (ST9)",
+    "species": "Human"
+  },
+  {
+    "name": "James T. Kirk",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS,TAS,ST:I-III,Reboot)",
+    "position": "Commanding Officer (TOS,TAS,ST:I-VI,ITD,STB)\n\t\tFirst Officer (ST9)",
+    "species": "Human"
+  },
+  {
+    "name": "Kor",
+    "rank": "Klingon Defense Force (DS9)\n\t\tIKS Klothos (TOS,TAS)",
+    "position": "Defence Officer (DS9)\n\t\tCommanding Officer (TOS,TAS)",
+    "species": "Klingon"
+  },
+  {
+    "name": "Kurn",
+    "rank": "Deep Space 9 (DS9)\n\t\tIKS Hegh'ta (TNG)",
+    "position": "Security Officer (DS9)\n\t\tCommanding Officer (TNG)",
+    "species": "Klingon"
+  },
+  {
+    "name": "Geordi La Forge",
+    "rank": "USS Enterprise-E (FCT,INS,NEM)\n\t\tUSS Enterprise-D (S1-7,GEN)",
+    "position": "Chief Engineer (S2-7,Movies)\n\t\tHelmsman (S1)",
+    "species": "Human"
+  },
+  {
+    "name": "Leeta",
+    "rank": "Deep Space 9 Resident",
+    "position": "Dabo Girl",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Robin Lefler",
+    "rank": "USS Enterprise-D",
+    "position": "Engineering Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Li Nalas",
+    "rank": "Deep Space 9",
+    "position": "Liaison Officer",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Lore",
+    "rank": "n/a",
+    "position": "n/a",
+    "species": "Android"
+  },
+  {
+    "name": "Lursa",
+    "rank": "Bird of Prey",
+    "position": "Commanding Officer",
+    "species": "Klingon"
+  },
+  {
+    "name": "Maihar'du",
+    "rank": "Ferenginar resident",
+    "position": "Attendant to Grand Nagus",
+    "species": "Hupyrian"
+  },
+  {
+    "name": "Mallora",
+    "rank": "Xindi Council",
+    "position": "Chairman",
+    "species": "Xindi-Primate"
+  },
+  {
+    "name": "Carol Marcus",
+    "rank": "Project Genesis (ST:II-III)\n\t\tUSS Enterprise (ITD)",
+    "position": "Biologist",
+    "species": "Human"
+  },
+  {
+    "name": "Carol Marcus",
+    "rank": "Project Genesis (ST:II-III)\n\t\tUSS Enterprise (ITD)",
+    "position": "Biologist",
+    "species": "Human"
+  },
+  {
+    "name": "Martok",
+    "rank": "Deep Space 9\n\t\tIKS Rotarran",
+    "position": "Chancellor of Klingon Empire (S7)\n\t\tCommander of Klingon Forces (S4-7)",
+    "species": "Klingon"
+  },
+  {
+    "name": "Travis Mayweather",
+    "rank": "Enterprise NX-01",
+    "position": "Helmsman",
+    "species": "Human"
+  },
+  {
+    "name": "Leonard McCoy",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS,TAS,ST:I-III,Reboot)",
+    "position": "Chief Medical Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Leonard McCoy",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS,TAS,ST:I-III,Reboot)",
+    "position": "Chief Medical Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Mezoti",
+    "rank": "USS Voyager Passenger",
+    "position": "n/a",
+    "species": "Norcadian"
+  },
+  {
+    "name": "Mila",
+    "rank": "Cardassia resident",
+    "position": "Housekeeper",
+    "species": "Cardassian"
+  },
+  {
+    "name": "Mora Pol",
+    "rank": "Bajor Resident",
+    "position": "Scientist",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Morn",
+    "rank": "Deep Space 9 Resident",
+    "position": "Courier",
+    "species": "Lurian"
+  },
+  {
+    "name": "Mot",
+    "rank": "USS Enterprise-D",
+    "position": "Barber",
+    "species": "Bolian"
+  },
+  {
+    "name": "Alynna Nechayev",
+    "rank": "Starfleet Command",
+    "position": "Admiral of Starfleet",
+    "species": "Human"
+  },
+  {
+    "name": "Neelix",
+    "rank": "Talaxian Asteroid Colony (S7)\n\t\tUSS Voyager (S1-7)",
+    "position": "Federation Ambassador (S7)\n\t\tChef (S1-7)",
+    "species": "Talaxian"
+  },
+  {
+    "name": "Susan Nicoletti",
+    "rank": "USS Voyager",
+    "position": "Engineering Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Nog",
+    "rank": "Deep Space 9\n\t\tStarfleet Academy (S4-5)",
+    "position": "Operations Officer (S6-7)\n\t\tStarfleet Cadet (S4-5)\n\t\tBar Employee (S1-4)\n\t\tStudent (S1-4)",
+    "species": "Ferengi"
+  },
+  {
+    "name": "Kashimuro Nozawa",
+    "rank": "USS Voyager",
+    "position": "Operations Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Number One",
+    "rank": "USS Enterprise",
+    "position": "First Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Keiko O'Brien",
+    "rank": "Deep Space 9 (DS9)\n\t\tUSS Enterprise-D (TNG)",
+    "position": "Teacher/Botanist (DS9)\n\t\tBotanist (TNG)",
+    "species": "Human"
+  },
+  {
+    "name": "Miles O'Brien",
+    "rank": "Starfleet Academy (DS9 S7)\n\t\tDeep Space 9 (DS9 S1-7)\n\t\tUSS Enterprise-D (TNG S1-6)",
+    "position": "Academy Professor (DS9 S7)\n\t\tChief of Operations (DS9 S1-7)\n\t\tTransporter Chief (TNG S2-6)\n\t\tHelmsman (TNG S1)",
+    "species": "Human"
+  },
+  {
+    "name": "Molly O'Brien",
+    "rank": "Deep Space 9 resident",
+    "position": "Student",
+    "species": "Human"
+  },
+  {
+    "name": "Odo",
+    "rank": "Deep Space 9",
+    "position": "Chief of Security",
+    "species": "Changeling"
+  },
+  {
+    "name": "Alyssa Ogawa",
+    "rank": "USS Enterprise-E (FCT)\n\t\tUSS Enterprise-D (S3-7,GEN)",
+    "position": "Nurse",
+    "species": "Human"
+  },
+  {
+    "name": "Opaka Sulan",
+    "rank": "Bajor Resident",
+    "position": "Bajoran Religious Leader (S1)",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Owen Paris",
+    "rank": "Starfleet Command",
+    "position": "Pathfinder Project",
+    "species": "Human"
+  },
+  {
+    "name": "Tom Paris",
+    "rank": "USS Voyager",
+    "position": "Helmsman",
+    "species": "Human"
+  },
+  {
+    "name": "Phlox",
+    "rank": "Enterprise NX-01",
+    "position": "Chief Medical Officer",
+    "species": "Denobulan"
+  },
+  {
+    "name": "Jean-Luc Picard",
+    "rank": "USS Enterprise-E (FCT,INS,NEM)\n\t\tUSS Enterprise-D (S1-7,GEN)",
+    "position": "Commanding officer",
+    "species": "Human"
+  },
+  {
+    "name": "Christopher Pike",
+    "rank": "Starfleet Command (ITD)\n\t\tUSS Enterprise (TC,ST9)",
+    "position": "Starfleet Admiral (ITD)\n\t\tCommanding Officer (TC,ST9)",
+    "species": "Human"
+  },
+  {
+    "name": "Christopher Pike",
+    "rank": "Starfleet Command (ITD)\n\t\tUSS Enterprise (TC,ST9)",
+    "position": "Starfleet Admiral (ITD)\n\t\tCommanding Officer (TC,ST9)",
+    "species": "Human"
+  },
+  {
+    "name": "Katherine Pulaski",
+    "rank": "USS Enterprise-D",
+    "position": "Chief Medical Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Q",
+    "rank": "Q Continuum Resident",
+    "position": "Q Continuum",
+    "species": "Q"
+  },
+  {
+    "name": "Quark",
+    "rank": "Deep Space 9 Resident",
+    "position": "Bar Owner",
+    "species": "Ferengi"
+  },
+  {
+    "name": "Janice Rand",
+    "rank": "USS Excelsior (ST:VI)\n\t\tStarfleet Command (ST:IV)\n\t\tUSS Enterprise (TOS, ST:I)",
+    "position": "First Officer (ST:VI)\n\t\tStarfleet Command Officer (ST:IV)\n\t\tTransporter Chief (ST:I)\n\t\tYeoman (TOS)",
+    "species": "Human"
+  },
+  {
+    "name": "Rebi",
+    "rank": "USS Voyager Passenger",
+    "position": "n/a",
+    "species": "Wysanti"
+  },
+  {
+    "name": "Malcolm Reed",
+    "rank": "Enterprise NX-01",
+    "position": "Tactical Officer",
+    "species": "Human"
+  },
+  {
+    "name": "William Riker",
+    "rank": "USS Titan (NEM)\n\t\tUSS Enterprise-E (FCT,INS,NEM)\n\t\tUSS Enterprise-D (S1-7,GEN)",
+    "position": "Commanding Officer (NEM)\n\t\tFirst Officer (S1-7,Movies)",
+    "species": "Human"
+  },
+  {
+    "name": "Ro Laren",
+    "rank": "USS Enterprise-D",
+    "position": "Maquis (S7)\n\t\tHelmsman (S5-7)",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Rom",
+    "rank": "Deep Space 9",
+    "position": "Grand Nagus (S7)\n\t\tMaintenance Engineer (S4-7)\n\t\tBar Employee (1-4)",
+    "species": "Ferengi"
+  },
+  {
+    "name": "William Ross",
+    "rank": "Deep Space 9",
+    "position": "Military Commander",
+    "species": "Human"
+  },
+  {
+    "name": "Michael Rostov",
+    "rank": "Enterprise NX-01",
+    "position": "Engineering Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Alexander Rozhenko",
+    "rank": "IKS Rotarran (DS9)",
+    "position": "Weapons Officer (DS9)",
+    "species": "Klingon/Human"
+  },
+  {
+    "name": "Alexander Rozhenko",
+    "rank": "IKS Rotarran (DS9)",
+    "position": "Weapons Officer (DS9)",
+    "species": "Klingon/Human"
+  },
+  {
+    "name": "Saavik",
+    "rank": "USS Grissom (ST:III-IV)\n\t\tUSS Enterprise (ST:II)",
+    "position": "Science Officer (ST:III-IV)\n\t\tNavigator (ST:II)",
+    "species": "Vulcan/Romulan"
+  },
+  {
+    "name": "Saavik",
+    "rank": "USS Grissom (ST:III-IV)\n\t\tUSS Enterprise (ST:II)",
+    "position": "Science Officer (ST:III-IV)\n\t\tNavigator (ST:II)",
+    "species": "Vulcan/Romulan"
+  },
+  {
+    "name": "Sarek",
+    "rank": "Vulcan Resident",
+    "position": "Federation Ambassador",
+    "species": "Vulcan"
+  },
+  {
+    "name": "Sarek",
+    "rank": "Vulcan Resident",
+    "position": "Federation Ambassador",
+    "species": "Vulcan"
+  },
+  {
+    "name": "Hoshi Sato",
+    "rank": "Enterprise NX-01",
+    "position": "Communications Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Sela",
+    "rank": "Unknown",
+    "position": "Romulan Officer",
+    "species": "Romulan/Human"
+  },
+  {
+    "name": "Seska",
+    "rank": "Kazon-Nistrim (S1-3)\n\t\tUSS Voyager (S1)",
+    "position": "Kazon Affiliate (S1-3)\n\t\tEngineering Officer (S1)\n\t\tScience Officer (S1)\n\t\tMaquis Infiltrator (previous)",
+    "species": "Cardassian"
+  },
+  {
+    "name": "Seven of Nine",
+    "rank": "USS Voyager",
+    "position": "Astrometrics",
+    "species": "Human"
+  },
+  {
+    "name": "Montgomery Scott",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS,TAS,ST:I-III,Reboot)",
+    "position": "Chief Engineer",
+    "species": "Human"
+  },
+  {
+    "name": "Montgomery Scott",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS,TAS,ST:I-III,Reboot)",
+    "position": "Chief Engineer",
+    "species": "Human"
+  },
+  {
+    "name": "Shakaar Edon",
+    "rank": "Bajor Resident",
+    "position": "First Minister of Bajor",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Thy'lek Shran",
+    "rank": "Kumari",
+    "position": "Andorian Imperial Guard",
+    "species": "Andorian"
+  },
+  {
+    "name": "Silik",
+    "rank": "Suliban Cabal",
+    "position": "Terrorist",
+    "species": "Suliban"
+  },
+  {
+    "name": "Benjamin Sisko",
+    "rank": "Deep Space 9",
+    "position": "Commanding Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Jake Sisko",
+    "rank": "Deep Space 9 Resident",
+    "position": "Journalist (S5-7)\n\t\tStudent (S1-5)",
+    "species": "Human"
+  },
+  {
+    "name": "Jennifer Sisko",
+    "rank": "USS Saratoga (S1)",
+    "position": "Starfleet Officer (S1)",
+    "species": "Human"
+  },
+  {
+    "name": "Joseph Sisko",
+    "rank": "Earth Resident",
+    "position": "Restaurant Owner",
+    "species": "Human"
+  },
+  {
+    "name": "Sarah Sisko",
+    "rank": "Earth Resident",
+    "position": "Holophotographer",
+    "species": "Human"
+  },
+  {
+    "name": "Luther Sloan",
+    "rank": "Section 31",
+    "position": "Intelligence Operative",
+    "species": "Human"
+  },
+  {
+    "name": "Soval",
+    "rank": "Earth",
+    "position": "Vulcan Ambassador to Earth",
+    "species": "Vulcan"
+  },
+  {
+    "name": "Spock",
+    "rank": "New Vulcan Resident (ITD)\n\t\tUSS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TC,TOS,TAS,ST:I-III,Reboot)\n\t\tInstructor (ST9)",
+    "position": "Federation Ambassador (TNG,ST9,ITD)\n\t\tFirst Officer (TC,TOS,TAS,Movies)\n\t\tScience Officer (TC,TOS,TAS,Reboot)",
+    "species": "Vulcan/Human"
+  },
+  {
+    "name": "Spock",
+    "rank": "New Vulcan Resident (ITD)\n\t\tUSS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TC,TOS,TAS,ST:I-III,Reboot)\n\t\tInstructor (ST9)",
+    "position": "Federation Ambassador (TNG,ST9,ITD)\n\t\tFirst Officer (TC,TOS,TAS,Movies)\n\t\tScience Officer (TC,TOS,TAS,Reboot)",
+    "species": "Vulcan/Human"
+  },
+  {
+    "name": "Lon Suder",
+    "rank": "USS Voyager",
+    "position": "Engineering Officer\n\t\tMaquis (previous)",
+    "species": "Betazoid"
+  },
+  {
+    "name": "Hikaru Sulu",
+    "rank": "USS Excelsior (ST:VI)\n\t\tUSS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS, TAS, ST:I-III,Reboot)",
+    "position": "Commanding Officer (ST:VI)\n\t\tHelmsman (TOS,TAS,ST:I-V,Reboot)",
+    "species": "Human"
+  },
+  {
+    "name": "Hikaru Sulu",
+    "rank": "USS Excelsior (ST:VI)\n\t\tUSS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS, TAS, ST:I-III,Reboot)",
+    "position": "Commanding Officer (ST:VI)\n\t\tHelmsman (TOS,TAS,ST:I-V,Reboot)",
+    "species": "Human"
+  },
+  {
+    "name": "Enabran Tain",
+    "rank": "Cardassia Resident",
+    "position": "Leader of Obsidian Order",
+    "species": "Cardassian"
+  },
+  {
+    "name": "Tal Celes",
+    "rank": "USS Voyager",
+    "position": "Operations Officer",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Tomalak",
+    "rank": "IRW Terix",
+    "position": "Commanding Officer",
+    "species": "Romulan"
+  },
+  {
+    "name": "Tora Ziyal",
+    "rank": "Deep Space 9 Resident",
+    "position": "Artist",
+    "species": "Bajoran/Cardassian"
+  },
+  {
+    "name": "Tora Ziyal",
+    "rank": "Deep Space 9 Resident",
+    "position": "Artist",
+    "species": "Bajoran/Cardassian"
+  },
+  {
+    "name": "B'Elanna Torres",
+    "rank": "USS Voyager",
+    "position": "Chief Engineer (S1-7)\n\t\tMaquis (S1)",
+    "species": "Klingon/Human"
+  },
+  {
+    "name": "T'Pol",
+    "rank": "Enterprise NX-01",
+    "position": "First Officer\n\t\tScience Officer",
+    "species": "Vulcan"
+  },
+  {
+    "name": "The Traveler",
+    "rank": "Tau Alpha C Resident",
+    "position": "n/a",
+    "species": "Unknown"
+  },
+  {
+    "name": "Deanna Troi",
+    "rank": "USS Titan (NEM)\n\t\tUSS Enterprise-E (FCT,INS,NEM)\n\t\tUSS Enterprise-D (S1-7,GEN)",
+    "position": "Diplomatic Officer (NEM)\n\t\tCounselor (S1-7,Movies)",
+    "species": "Betazoid/Human"
+  },
+  {
+    "name": "Lwaxana Troi",
+    "rank": "Betazed Resident",
+    "position": "Federation Ambassador",
+    "species": "Betazoid"
+  },
+  {
+    "name": "Charles Tucker",
+    "rank": "Enterprise NX-01",
+    "position": "Chief Engineer",
+    "species": "Human"
+  },
+  {
+    "name": "Tuvok",
+    "rank": "USS Voyager",
+    "position": "Chief of Security",
+    "species": "Vulcan"
+  },
+  {
+    "name": "José Tyler",
+    "rank": "USS Enterprise",
+    "position": "Helmsman",
+    "species": "Human"
+  },
+  {
+    "name": "Nyota Uhura",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS, TAS, ST:I-III,Reboot)",
+    "position": "Communications Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Nyota Uhura",
+    "rank": "USS Enterprise-A (ST:IV-VI)\n\t\tUSS Enterprise (TOS, TAS, ST:I-III,Reboot)",
+    "position": "Communications Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Vash",
+    "rank": "Earth Resident",
+    "position": "Archeologist",
+    "species": "Human"
+  },
+  {
+    "name": "Vorik",
+    "rank": "USS Voyager",
+    "position": "Engineering Officer",
+    "species": "Vulcan"
+  },
+  {
+    "name": "Weyoun",
+    "rank": "Cardassia Prime",
+    "position": "Dominion Leader",
+    "species": "Vorta"
+  },
+  {
+    "name": "Naomi Wildman",
+    "rank": "USS Voyager Resident",
+    "position": "Captain's Assistant (unofficial)",
+    "species": "Ktarian/Human"
+  },
+  {
+    "name": "Samantha Wildman",
+    "rank": "USS Voyager",
+    "position": "Science Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Winn Adami",
+    "rank": "Bajor Resident",
+    "position": "Bajoran Religious Leader",
+    "species": "Bajoran"
+  },
+  {
+    "name": "Worf",
+    "rank": "USS Enterprise-E (NEM)\n\t\tQo'noS (DS9 S7)\n\t\tDeep Space 9 (DS9 S4-7)\n\t\tUSS Enterprise-D (S1-7,GEN)",
+    "position": "Strategic Operations Officer (DS9 S4-7,Movies)\n\t\tAmbassador (DS9 S7)\n\t\tChief Security Officer (TNG S2-7)\n\t\tHelmsman (TNG S1)",
+    "species": "Klingon"
+  },
+  {
+    "name": "Tasha Yar",
+    "rank": "USS Enterprise-D",
+    "position": "Chief Security Officer",
+    "species": "Human"
+  },
+  {
+    "name": "Kasidy Yates",
+    "rank": "SS Xhosa\n\t\tDeep Space 9 Resident",
+    "position": "Freighter Captain",
+    "species": "Human"
+  },
+  {
+    "name": "Zek",
+    "rank": "Ferenginar Resident",
+    "position": "Leader of Ferengi Economics",
+    "species": "Ferengi"
+  }
+]
