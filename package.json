@@ -2,12 +2,16 @@
   "name": "data",
   "version": "0.0.1",
   "description": "A simple helpful robot",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spbk/data.git"
   },
   "dependencies": {
-    "botkit": "0.2.2"
+    "botkit": "0.4.0",
+    "joi": "9.1.0",
+    "winston": "2.2.0",
+    "wreck": "10.0.0"
   },
   "engines": {
     "node": ">=6.0.0",
@@ -24,10 +28,10 @@
   },
   "homepage": "https://github.com/spbk/data#readme",
   "devDependencies": {
-    "eslint": "3.6.1",
+    "eslint": "3.7.1",
     "eslint-config-airbnb-base": "8.0.0",
     "eslint-plugin-import": "1.16.0",
-    "jest": "15.1.1"
+    "jest": "16.0.1"
   },
   "jest": {
     "moduleFileExtensions": [
