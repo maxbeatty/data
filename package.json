@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "botkit": "0.4.0",
-    "joi": "9.1.0",
+    "joi": "9.1.1",
     "winston": "2.2.0",
     "wreck": "10.0.0"
   },
