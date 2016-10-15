@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/spbk/data#readme",
   "devDependencies": {
-    "eslint": "3.7.1",
+    "eslint": "3.8.0",
     "eslint-config-airbnb-base": "8.0.0",
     "eslint-plugin-import": "1.16.0",
     "jest": "16.0.1"
