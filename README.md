@@ -2,28 +2,13 @@
 
 [![npm](https://img.shields.io/npm/l/botkit.svg)](https://spdx.org/licenses/MIT)
 
-A Node.js app that primarly harnesses [botkit](https://github.com/howdyai/botkit/blob/master/readme-slack.md) to interface with Slack.
+A Node.js app that primarly harnesses [botkit](https://github.com/howdyai/botkit/blob/v0.4.1/readme-slack.md#getting-started) to interface with Slack.
 
-## How to Deploy to Heroku
-
-Data lives on Heroku at [spbk-data.herokuapp.com](spbk-data.herokuapp.com). To deploy a branch to Heroku, execute the following in order:
-
-* Make sure you have the project (this repository) cloned locally.
-* `heroku git:remote -a spbk-data` to set the Heroku instance as a remote.
-* `git push heroku master` to deploy the `master` branch to Heroku or `git push heroku +my_branch:master` to override Heroku's maser branch with a different branch.
-* At this point, "Data" should show up as a user in Slack.
-
-## Heroku Commands
-
-First, you need to log into Heroku:
-* `heroku login [-a spbk-data]`
-
-You can view the logs on your Heroku app with:
-* `heroku logs --tail [-a spbk-data]`
+Automatically deploys to Heroku when CI passes against `master`.
 
 ## Environment Variables
 
-- `SLACK_RTM_TOKEN` - [see Botkit's docs](https://github.com/howdyai/botkit/blob/e4fe9c7a038530a66d55f6a9ab32afdf92bbe8c5/readme-slack.md#getting-started)
+- `SLACK_RTM_TOKEN` - API token from Slack Bot integration
 - `DEBUG` - any value will enable extra logging
 
 ## Data Commands
@@ -74,3 +59,17 @@ npm test
 ```
 
 Do not use any Jest variant of `before` or `after` since they are global and apply to _all_ tests causing unintended consequences.
+
+### Dependencies
+
+When you add, remove, or update a dependency, use the `npm` CLI.
+
+```
+npm install package@1.2.3 --save --save-exact
+```
+
+`npm-shrinkwrap.json` should be updated any time dependencies change. If `npm` does not do this for you, run:
+
+```
+npm shrinkwrap --dev
+```

@@ -8,14 +8,14 @@
     "url": "git+https://github.com/spbk/data.git"
   },
   "dependencies": {
-    "botkit": "0.4.0",
+    "botkit": "0.4.1",
     "joi": "9.2.0",
-    "winston": "^2.3.0",
+    "winston": "2.3.0",
     "wreck": "10.0.0"
   },
   "engines": {
-    "node": ">=6.0.0",
-    "npm": ">=3.0.0"
+    "node": "6.9.1",
+    "npm": "3.10.8"
   },
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/spbk/data#readme",
   "devDependencies": {
-    "eslint": "^3.9.1",
-    "eslint-config-airbnb-base": "^10.0.0",
+    "eslint": "3.9.1",
+    "eslint-config-airbnb-base": "10.0.0",
     "eslint-plugin-import": "2.1.0",
-    "jest": "16.0.2"
+    "jest": "17.0.0"
   },
   "jest": {
     "moduleFileExtensions": [
