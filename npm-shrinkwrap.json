@@ -241,9 +241,9 @@
       "dev": true
     },
     "babel-jest": {
-      "version": "17.0.0",
-      "from": "babel-jest@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/babel-jest/-/babel-jest-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "babel-jest@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/babel-jest/-/babel-jest-17.0.2.tgz",
       "dev": true
     },
     "babel-messages": {
@@ -267,15 +267,15 @@
       }
     },
     "babel-plugin-jest-hoist": {
-      "version": "16.0.0",
-      "from": "babel-plugin-jest-hoist@>=16.0.0 <17.0.0",
-      "resolved": "https://registry.npmjs.org/babel-plugin-jest-hoist/-/babel-plugin-jest-hoist-16.0.0.tgz",
+      "version": "17.0.2",
+      "from": "babel-plugin-jest-hoist@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/babel-plugin-jest-hoist/-/babel-plugin-jest-hoist-17.0.2.tgz",
       "dev": true
     },
     "babel-preset-jest": {
-      "version": "16.0.0",
-      "from": "babel-preset-jest@>=16.0.0 <17.0.0",
-      "resolved": "https://registry.npmjs.org/babel-preset-jest/-/babel-preset-jest-16.0.0.tgz",
+      "version": "17.0.2",
+      "from": "babel-preset-jest@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/babel-preset-jest/-/babel-preset-jest-17.0.2.tgz",
       "dev": true
     },
     "babel-register": {
@@ -1645,16 +1645,10 @@
       "from": "items@>=2.0.0 <3.0.0",
       "resolved": "https://registry.npmjs.org/items/-/items-2.1.1.tgz"
     },
-    "jasmine-check": {
-      "version": "0.1.5",
-      "from": "jasmine-check@>=0.1.4 <0.2.0",
-      "resolved": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.5.tgz",
-      "dev": true
-    },
     "jest": {
-      "version": "17.0.0",
-      "from": "jest@17.0.0",
-      "resolved": "https://registry.npmjs.org/jest/-/jest-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest@17.0.2",
+      "resolved": "https://registry.npmjs.org/jest/-/jest-17.0.2.tgz",
       "dev": true,
       "dependencies": {
         "callsites": {
@@ -1670,9 +1664,9 @@
           "dev": true
         },
         "jest-cli": {
-          "version": "17.0.0",
-          "from": "jest-cli@>=17.0.0 <18.0.0",
-          "resolved": "https://registry.npmjs.org/jest-cli/-/jest-cli-17.0.0.tgz",
+          "version": "17.0.2",
+          "from": "jest-cli@>=17.0.2 <18.0.0",
+          "resolved": "https://registry.npmjs.org/jest-cli/-/jest-cli-17.0.2.tgz",
           "dev": true
         },
         "window-size": {
@@ -1682,41 +1676,41 @@
           "dev": true
         },
         "yargs": {
-          "version": "6.3.0",
+          "version": "6.4.0",
           "from": "yargs@>=6.3.0 <7.0.0",
-          "resolved": "https://registry.npmjs.org/yargs/-/yargs-6.3.0.tgz",
+          "resolved": "https://registry.npmjs.org/yargs/-/yargs-6.4.0.tgz",
           "dev": true
         }
       }
     },
     "jest-changed-files": {
-      "version": "16.0.0",
-      "from": "jest-changed-files@>=16.0.0 <17.0.0",
-      "resolved": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-16.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-changed-files@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-17.0.2.tgz",
       "dev": true
     },
     "jest-config": {
-      "version": "17.0.0",
-      "from": "jest-config@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-config/-/jest-config-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-config@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-config/-/jest-config-17.0.2.tgz",
       "dev": true
     },
     "jest-diff": {
-      "version": "17.0.0",
-      "from": "jest-diff@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-diff/-/jest-diff-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-diff@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-diff/-/jest-diff-17.0.2.tgz",
       "dev": true
     },
     "jest-environment-jsdom": {
-      "version": "17.0.0",
-      "from": "jest-environment-jsdom@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-environment-jsdom/-/jest-environment-jsdom-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-environment-jsdom@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-environment-jsdom/-/jest-environment-jsdom-17.0.2.tgz",
       "dev": true
     },
     "jest-environment-node": {
-      "version": "17.0.0",
-      "from": "jest-environment-node@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-environment-node@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-17.0.2.tgz",
       "dev": true
     },
     "jest-file-exists": {
@@ -1726,51 +1720,51 @@
       "dev": true
     },
     "jest-haste-map": {
-      "version": "17.0.0",
-      "from": "jest-haste-map@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-haste-map/-/jest-haste-map-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-haste-map@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-haste-map/-/jest-haste-map-17.0.2.tgz",
       "dev": true
     },
     "jest-jasmine2": {
-      "version": "17.0.0",
-      "from": "jest-jasmine2@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-jasmine2@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-jasmine2/-/jest-jasmine2-17.0.2.tgz",
       "dev": true
     },
     "jest-matcher-utils": {
-      "version": "17.0.0",
-      "from": "jest-matcher-utils@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-matcher-utils/-/jest-matcher-utils-17.0.0.tgz",
+      "version": "17.0.1",
+      "from": "jest-matcher-utils@>=17.0.1 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-matcher-utils/-/jest-matcher-utils-17.0.1.tgz",
       "dev": true
     },
     "jest-matchers": {
-      "version": "17.0.0",
-      "from": "jest-matchers@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-matchers/-/jest-matchers-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-matchers@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-matchers/-/jest-matchers-17.0.2.tgz",
       "dev": true
     },
     "jest-mock": {
-      "version": "17.0.0",
-      "from": "jest-mock@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-mock/-/jest-mock-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-mock@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-mock/-/jest-mock-17.0.2.tgz",
       "dev": true
     },
     "jest-resolve": {
-      "version": "17.0.0",
-      "from": "jest-resolve@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-resolve@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-resolve/-/jest-resolve-17.0.2.tgz",
       "dev": true
     },
     "jest-resolve-dependencies": {
-      "version": "17.0.0",
-      "from": "jest-resolve-dependencies@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-resolve-dependencies@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-17.0.2.tgz",
       "dev": true
     },
     "jest-runtime": {
-      "version": "17.0.0",
-      "from": "jest-runtime@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-runtime/-/jest-runtime-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-runtime@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-runtime/-/jest-runtime-17.0.2.tgz",
       "dev": true,
       "dependencies": {
         "camelcase": {
@@ -1786,23 +1780,23 @@
           "dev": true
         },
         "yargs": {
-          "version": "6.3.0",
-          "from": "yargs@>=6.3.0 <7.0.0",
-          "resolved": "https://registry.npmjs.org/yargs/-/yargs-6.3.0.tgz",
+          "version": "6.4.0",
+          "from": "yargs@^6.3.0",
+          "resolved": "https://registry.npmjs.org/yargs/-/yargs-6.4.0.tgz",
           "dev": true
         }
       }
     },
     "jest-snapshot": {
-      "version": "17.0.0",
-      "from": "jest-snapshot@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-snapshot/-/jest-snapshot-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-snapshot@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-snapshot/-/jest-snapshot-17.0.2.tgz",
       "dev": true
     },
     "jest-util": {
-      "version": "17.0.0",
-      "from": "jest-util@>=17.0.0 <18.0.0",
-      "resolved": "https://registry.npmjs.org/jest-util/-/jest-util-17.0.0.tgz",
+      "version": "17.0.2",
+      "from": "jest-util@>=17.0.2 <18.0.0",
+      "resolved": "https://registry.npmjs.org/jest-util/-/jest-util-17.0.2.tgz",
       "dev": true
     },
     "jfs": {
@@ -2991,12 +2985,6 @@
       "from": "test-value@>=2.0.0 <3.0.0",
       "resolved": "https://registry.npmjs.org/test-value/-/test-value-2.1.0.tgz"
     },
-    "testcheck": {
-      "version": "0.1.4",
-      "from": "testcheck@>=0.1.0 <0.2.0",
-      "resolved": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.4.tgz",
-      "dev": true
-    },
     "text-table": {
       "version": "0.2.0",
       "from": "text-table@>=0.2.0 <0.3.0",
@@ -3358,9 +3346,9 @@
       "resolved": "https://registry.npmjs.org/yargs/-/yargs-3.29.0.tgz"
     },
     "yargs-parser": {
-      "version": "4.0.2",
-      "from": "yargs-parser@>=4.0.2 <5.0.0",
-      "resolved": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-4.0.2.tgz",
+      "version": "4.1.0",
+      "from": "yargs-parser@>=4.1.0 <5.0.0",
+      "resolved": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-4.1.0.tgz",
       "dev": true,
       "dependencies": {
         "camelcase": {
