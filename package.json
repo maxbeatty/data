@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "botkit": "0.4.1",
-    "joi": "9.2.0",
+    "joi": "^10.0.1",
     "winston": "2.3.0",
     "wreck": "10.0.0"
   },
@@ -31,7 +31,7 @@
     "eslint": "3.10.2",
     "eslint-config-airbnb-base": "10.0.0",
     "eslint-plugin-import": "2.1.0",
-    "jest": "17.0.2"
+    "jest": "^17.0.3"
   },
   "jest": {
     "moduleFileExtensions": [
