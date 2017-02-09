@@ -53,9 +53,9 @@
       "resolved": "https://registry.npmjs.org/agent-base/-/agent-base-2.0.1.tgz"
     },
     "ajv": {
-      "version": "4.10.4",
+      "version": "4.11.2",
       "from": "ajv@>=4.7.0 <5.0.0",
-      "resolved": "https://registry.npmjs.org/ajv/-/ajv-4.10.4.tgz",
+      "resolved": "https://registry.npmjs.org/ajv/-/ajv-4.11.2.tgz",
       "dev": true,
       "dependencies": {
         "co": {
@@ -67,9 +67,9 @@
       }
     },
     "ajv-keywords": {
-      "version": "1.5.0",
+      "version": "1.5.1",
       "from": "ajv-keywords@>=1.0.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/ajv-keywords/-/ajv-keywords-1.5.0.tgz",
+      "resolved": "https://registry.npmjs.org/ajv-keywords/-/ajv-keywords-1.5.1.tgz",
       "dev": true
     },
     "align-text": {
@@ -677,9 +677,9 @@
       "dev": true,
       "dependencies": {
         "object-assign": {
-          "version": "4.1.0",
-          "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz",
+          "version": "4.1.1",
+          "from": "object-assign@^4.0.1",
+          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
           "dev": true
         }
       }
@@ -852,15 +852,15 @@
       "dev": true
     },
     "eslint": {
-      "version": "3.13.0",
-      "from": "eslint@>=3.13.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/eslint/-/eslint-3.13.0.tgz",
+      "version": "3.15.0",
+      "from": "eslint@>=3.15.0 <4.0.0",
+      "resolved": "https://registry.npmjs.org/eslint/-/eslint-3.15.0.tgz",
       "dev": true
     },
     "eslint-config-airbnb-base": {
-      "version": "11.0.1",
-      "from": "eslint-config-airbnb-base@11.0.1",
-      "resolved": "https://registry.npmjs.org/eslint-config-airbnb-base/-/eslint-config-airbnb-base-11.0.1.tgz",
+      "version": "11.1.0",
+      "from": "eslint-config-airbnb-base@11.1.0",
+      "resolved": "https://registry.npmjs.org/eslint-config-airbnb-base/-/eslint-config-airbnb-base-11.1.0.tgz",
       "dev": true
     },
     "eslint-import-resolver-node": {
@@ -890,9 +890,9 @@
       "dev": true
     },
     "espree": {
-      "version": "3.3.2",
-      "from": "espree@>=3.3.1 <4.0.0",
-      "resolved": "https://registry.npmjs.org/espree/-/espree-3.3.2.tgz",
+      "version": "3.4.0",
+      "from": "espree@>=3.4.0 <4.0.0",
+      "resolved": "https://registry.npmjs.org/espree/-/espree-3.4.0.tgz",
       "dev": true
     },
     "esprima": {
@@ -914,9 +914,9 @@
           "dev": true
         },
         "object-assign": {
-          "version": "4.1.0",
+          "version": "4.1.1",
           "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz",
+          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
           "dev": true
         }
       }
@@ -1018,9 +1018,9 @@
       "dev": true,
       "dependencies": {
         "object-assign": {
-          "version": "4.1.0",
-          "from": "object-assign@>=4.1.0 <5.0.0",
-          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz",
+          "version": "4.1.1",
+          "from": "object-assign@^4.1.0",
+          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
           "dev": true
         }
       }
@@ -1032,9 +1032,9 @@
       "dev": true,
       "dependencies": {
         "object-assign": {
-          "version": "4.1.0",
-          "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz",
+          "version": "4.1.1",
+          "from": "object-assign@^4.0.1",
+          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
           "dev": true
         }
       }
@@ -1201,9 +1201,9 @@
       "dev": true,
       "dependencies": {
         "object-assign": {
-          "version": "4.1.0",
-          "from": "object-assign@>=4.0.1 <5.0.0",
-          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz",
+          "version": "4.1.1",
+          "from": "object-assign@^4.0.1",
+          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
           "dev": true
         }
       }
@@ -1316,9 +1316,9 @@
       "resolved": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.13.tgz"
     },
     "ignore": {
-      "version": "3.2.0",
+      "version": "3.2.2",
       "from": "ignore@>=3.2.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/ignore/-/ignore-3.2.0.tgz",
+      "resolved": "https://registry.npmjs.org/ignore/-/ignore-3.2.2.tgz",
       "dev": true
     },
     "imurmurhash": {
