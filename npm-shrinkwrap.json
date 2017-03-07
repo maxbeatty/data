@@ -102,9 +102,9 @@
       "resolved": "https://registry.npmjs.org/agent-base/-/agent-base-2.0.1.tgz"
     },
     "ajv": {
-      "version": "4.11.2",
+      "version": "4.11.4",
       "from": "ajv@>=4.7.0 <5.0.0",
-      "resolved": "https://registry.npmjs.org/ajv/-/ajv-4.11.2.tgz",
+      "resolved": "https://registry.npmjs.org/ajv/-/ajv-4.11.4.tgz",
       "dev": true,
       "dependencies": {
         "co": {
@@ -1041,15 +1041,15 @@
       "dev": true
     },
     "eslint": {
-      "version": "3.15.0",
-      "from": "eslint@>=3.15.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/eslint/-/eslint-3.15.0.tgz",
+      "version": "3.17.1",
+      "from": "eslint@3.17.1",
+      "resolved": "https://registry.npmjs.org/eslint/-/eslint-3.17.1.tgz",
       "dev": true
     },
     "eslint-config-airbnb-base": {
-      "version": "11.1.0",
-      "from": "eslint-config-airbnb-base@11.1.0",
-      "resolved": "https://registry.npmjs.org/eslint-config-airbnb-base/-/eslint-config-airbnb-base-11.1.0.tgz",
+      "version": "11.1.1",
+      "from": "eslint-config-airbnb-base@11.1.1",
+      "resolved": "https://registry.npmjs.org/eslint-config-airbnb-base/-/eslint-config-airbnb-base-11.1.1.tgz",
       "dev": true
     },
     "eslint-import-resolver-node": {
@@ -1522,9 +1522,9 @@
       "resolved": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.13.tgz"
     },
     "ignore": {
-      "version": "3.2.2",
+      "version": "3.2.4",
       "from": "ignore@>=3.2.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/ignore/-/ignore-3.2.2.tgz",
+      "resolved": "https://registry.npmjs.org/ignore/-/ignore-3.2.4.tgz",
       "dev": true
     },
     "imurmurhash": {
