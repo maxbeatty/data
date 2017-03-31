@@ -3578,14 +3578,14 @@
       "resolved": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz"
     },
     "wreck": {
-      "version": "10.0.0",
-      "from": "wreck@10.0.0",
-      "resolved": "https://registry.npmjs.org/wreck/-/wreck-10.0.0.tgz",
+      "version": "12.0.0",
+      "from": "wreck@>=12.0.0 <13.0.0",
+      "resolved": "https://registry.npmjs.org/wreck/-/wreck-12.0.0.tgz",
       "dependencies": {
         "boom": {
-          "version": "4.2.0",
+          "version": "4.3.1",
           "from": "boom@>=4.0.0 <5.0.0",
-          "resolved": "https://registry.npmjs.org/boom/-/boom-4.2.0.tgz"
+          "resolved": "https://registry.npmjs.org/boom/-/boom-4.3.1.tgz"
         },
         "hoek": {
           "version": "4.1.0",
